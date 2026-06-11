@@ -1,5 +1,5 @@
 {
-  "name": "framework-wfx-fmac-driver",
+  "name": "library-wfx-fmac-driver",
   "version": "3.7.0",
   "description": "Silicon Labs WFX FMAC driver v3.7.0 (Apache-2.0) + WF200 firmware blob (Silabs Limited Redistribution License) packaged for LibreTiny",
   "keywords": [
