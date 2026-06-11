@@ -1,0 +1,20 @@
+{
+  "name": "framework-wfx-fmac-driver",
+  "version": "3.7.0",
+  "description": "Silicon Labs WFX FMAC driver v3.7.0 (Apache-2.0) + WF200 firmware blob (Silabs Limited Redistribution License) packaged for LibreTiny",
+  "keywords": [
+    "framework",
+    "silicon-labs",
+    "wfx",
+    "wf200",
+    "wgm160p",
+    "libretiny"
+  ],
+  "homepage": "https://github.com/RAR/framework-wfx-fmac-driver",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RAR/framework-wfx-fmac-driver.git"
+  },
+  "license": "Apache-2.0",
+  "system": ["linux_x86_64", "linux_64", "windows_amd64", "darwin_x86_64", "darwin_arm64"]
+}
