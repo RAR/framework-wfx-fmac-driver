@@ -15,6 +15,6 @@
     "type": "git",
     "url": "https://github.com/RAR/framework-wfx-fmac-driver.git"
   },
-  "license": "Apache-2.0",
+  "license": "Apache-2.0 AND LicenseRef-Silabs-LRL",
   "system": ["linux_x86_64", "linux_64", "windows_amd64", "darwin_x86_64", "darwin_arm64"]
 }
